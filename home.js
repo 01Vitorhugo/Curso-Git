@@ -4,8 +4,8 @@
 var name = vitor
 var email = vitorhugo
 
-funcion(){
-    if( == vitor){
+function nome(nome){
+    if( nome = vitor){
         println('Parabens')
     }else{
         println('Perdeu')
