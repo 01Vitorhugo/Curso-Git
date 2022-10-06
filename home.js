@@ -11,3 +11,7 @@ function nome(nome){
         println('Perdeu')
     }
 }    
+
+function nome(nome){
+    return name;
+}    
